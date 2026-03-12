@@ -1,0 +1,20 @@
+🚀 E-Commerce Customer Behavior & Revenue Insights | Power BI Dashboard Project
+This is an interactive Power BI dashboard analyzing an E-commerce Customer Behavior dataset sourced from Kaggle.
+This project focused on transforming raw customer transaction data into meaningful business insights by exploring demographic trends, membership impact, and revenue distribution across cities.
+
+Key Highlights from the Analysis:
+• Male customers generated higher overall revenue, with stronger average spending levels.
+• 28-year-old male customers represented a high-value demographic segment.
+• Gold membership tier alone accounted for over 50% of total revenue, demonstrating the strong impact of loyalty programs.
+• Spending patterns varied significantly across age groups, with notable divergence at age 31.
+• Revenue concentration was observed across specific cities, highlighting geographic performance differences.
+
+Skills Applied:
+• Data transformation & cleaning
+• KPI development using DAX
+• Interactive dashboard design in Power BI
+• Customer segmentation analysis
+• Revenue performance evaluation
+• Insight-driven storytelling
+
+Kaggle datset link : https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset
